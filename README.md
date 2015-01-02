@@ -3,6 +3,8 @@ cat-ascii-faces
 
 ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ” cat faces!
 
+[![NPM](https://nodei.co/npm/cat-ascii-faces.png)](https://nodei.co/npm/cat-ascii-faces/)
+
 This is (extremely) inspired by https://github.com/maxogden/cool-ascii-faces
 
 Feel free to make a PR to add emoticons!  Only cats will be accepted.
