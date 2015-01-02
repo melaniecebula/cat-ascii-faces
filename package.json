@@ -1,0 +1,22 @@
+{
+  "name": "cat-ascii-faces",
+  "version": "1.0.0",
+  "description": "cat faces ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ ~~!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "melanie cebula",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melaniecebula/cat-ascii-faces.git"
+  },
+  "bugs": {
+    "url": "https://github.com/melaniecebula/cat-ascii-faces/issues"
+  },
+  "homepage": "https://github.com/melaniecebula/cat-ascii-faces",
+  "dependencies": {
+    "stream-array": "~1.0.1"
+  }
+}
