@@ -1,3 +1,5 @@
+var streamify = require('stream-array')
+
 var cats = [
   "｡＾･ｪ･＾｡",
   "( ͒ ु- •̫̮ – ू ͒)",
@@ -141,3 +143,6 @@ module.exports = function() {
 
 module.exports.cats = cats
 
+module.exports.catStream = function() {
+  return streamify(cats)
+}
