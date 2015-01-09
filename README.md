@@ -7,7 +7,17 @@ This is (extremely) inspired by https://github.com/maxogden/cool-ascii-faces
 
 Feel free to make a PR to add emoticons!  Only cats will be accepted.
 
-### Usage
+### CLI Usage
+
+```
+npm install cat-ascii-faces -g
+cat-face [-a]
+```
+
+By default, cat-face prints out a random cat.
+If you supply -a, cat-face will print all of the emoticons line-by-line.
+
+### JS Usage
 
 ```
 var cats = require('cat-ascii-faces')

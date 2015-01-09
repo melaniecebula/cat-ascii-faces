@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "cat faces ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ ~~!",
   "main": "index.js",
+  "bin": {
+    "cat-face": "./cli.js"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -18,5 +21,6 @@
   "homepage": "https://github.com/melaniecebula/cat-ascii-faces",
   "dependencies": {
     "stream-array": "~1.0.1"
-  }
+  },
+  "devDependencies": {}
 }
