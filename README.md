@@ -11,7 +11,7 @@ Feel free to make a PR to add emoticons!  Only cats will be accepted.
 
 ### CLI Usage
 
-```
+```sh
 npm install cat-ascii-faces -g
 cat-face [-a]
 ```
@@ -21,7 +21,7 @@ If you supply -a, cat-face will print all of the emoticons line-by-line.
 
 ### JS Usage
 
-```
+```js
 var cats = require('cat-ascii-faces')
 
 console.log(cats()) // returns a random cat
